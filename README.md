@@ -1,5 +1,5 @@
 # ZigZagProduct
-This is a report on the Zig-Zag Graph Product paper by O. Reingold, S. Vadhan,  and A. Wigderson. Although the category of this topic falls under Computational Complexity, mathematical g
+This is a report on the Zig-Zag Graph Product paper by O. Reingold, S. Vadhan,  and A. Wigderson. Although the category of this topic falls under Computational Complexity, mathematical
 graphs have played a huge role in the field of Artificial Intelligence, from artificial neural networks to unsupervised learning methods such as spectral clustering, to random-walk applications
 such as Google's PageRank, to human memory and memory retrieval methods modeled by graphs.
 
